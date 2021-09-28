@@ -1,0 +1,26 @@
+{
+  "name": "TailwindcssRefresh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/balderb/TailwindcssRefresh.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/balderb/TailwindcssRefresh/issues"
+  },
+  "homepage": "https://github.com/balderb/TailwindcssRefresh#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.3.6",
+    "postcss": "^8.3.8",
+    "tailwindcss": "^2.2.16",
+    "vite": "^2.5.10"
+  }
+}
