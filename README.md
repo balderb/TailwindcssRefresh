@@ -1,2 +1,1 @@
-# Tailwindcss Refresh course from
-# Tailwindcss labs (youtube channel)
+# Tailwindcss Refresh course from Tailwindcss labs (youtube channel)
